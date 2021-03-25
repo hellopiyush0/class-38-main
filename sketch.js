@@ -115,8 +115,6 @@ function Knife(){
 
     KnifeGroup.add(knife);
 
-    knife.debug = true;
-
   }
 
 }
